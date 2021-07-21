@@ -6,7 +6,7 @@ function NavBar() {
   return (
     <div className="navbar">
       <h1>Justas reading list</h1>
-      <p>Currently you have {books.length} books</p>
+      <p>Currently you have read {books.length} books</p>
     </div>
   );
 }

@@ -35,7 +35,11 @@ function BookForm() {
         onChange={e => setAuthor(e.target.value)}
         required
       />
-      <input type="submit" value="add book" />
+      <input
+        type="submit"
+        value="
+      Add book"
+      />
     </form>
   );
 }
