@@ -1,6 +1,6 @@
 {
   "name": "booklist",
-  "homepgae": "http://justastitovec.io/book-list",
+  "homepage": "http://justastitovec.github.io/book-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
